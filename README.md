@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning-web development
 - 💞️ I’m looking to collaborate on hackathon events in india 
 - 📫 How to reach me-
-  insta-               bhati__paras
+- instagram-               bhati__paras
 - gmail-               bhaip797@gmail.com
 - ⚡ Fun fact: I am a jack of all trade but master of none
 
